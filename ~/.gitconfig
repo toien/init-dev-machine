@@ -1,0 +1,16 @@
+[gui]
+	encoding = utf-8
+[i18n]
+	commitencoding = utf-8
+	logoutputencoding = utf-8
+[core]
+	autocrlf = input
+	excludesfile = C:\\Users\\toien\\Documents\\gitignore_global.txt
+	fileMode = false
+[user]
+	name = toien
+	email = toien@xyz.com
+[credential]
+	helper = cache
+[push]
+	default = simple
