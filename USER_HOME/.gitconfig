@@ -5,7 +5,7 @@
 	logoutputencoding = utf-8
 [core]
 	autocrlf = input
-	excludesfile = C:\\Users\\toien\\Documents\\gitignore_global.txt
+	excludesfile = ./.gitignore_global
 	fileMode = false
 [user]
 	name = toien
